@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <?php
+require 'includes/db.php';
+
 $title = "Lamp Stack Test";
 ?>
 <html lang="en">
