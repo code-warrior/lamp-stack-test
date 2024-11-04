@@ -14,5 +14,8 @@ $title = "Lamp Stack Test";
   <header>
     <h1><?php echo $title ?></h1>
   </header>
+  <main>
+    <p>The band <b><?php getValue(); ?></b> exists in our database.</p>
+  </main>
 </body>
 </html>
