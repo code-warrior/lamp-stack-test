@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<?php $title = "Lamp Stack Test"; ?>
+<?php
+$title = "Lamp Stack Test";
+?>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
